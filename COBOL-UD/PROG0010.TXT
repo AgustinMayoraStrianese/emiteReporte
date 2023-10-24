@@ -1,8 +1,8 @@
         IDENTIFICATION DIVISION.
        PROGRAM-ID.                PROGREPE.
-       AUTHOR.                    FERNANDO TOLEDO.
+       AUTHOR.                    AGUSTIN MAYORA.
        INSTALLATION.              CENTRO DE CAPACITACION.
-       DATE-WRITTEN.              17/11/16.
+       DATE-WRITTEN.              19/10/23.
        DATE-COMPILED.
        SECURITY.                  NO ES CONFIDENCIAL.
       *> ------------------------------------------------------
